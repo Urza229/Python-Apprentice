@@ -19,9 +19,8 @@ def draw_polygon(sides):
 
     angle = ... # Calculate angle from number of sides
     
-    for i in range(...):                 # Loop through the number of sides
-        ...                              # Move tina forward by the forward distance
-        ...                              # Turn tina left by the left turn
+    for i in range(3):                 # Loop through the number of sides
+    tina.forward                            # Move tina forward by the forward distancetina                           # Turn tina left by the left turn
 
 
 draw_polygon(...)                        # Draw a square
